@@ -1,5 +1,8 @@
 # ContadordepersonasDL
 Programa de Deep Learning que realiza el conteo de personas que ingresan a un área determinada en tiempo real.
+# Interfaz Principal
+
+![deep](https://github.com/marituss10/ContadordepersonasDL/assets/150117562/3a706f49-6c0a-449b-b644-aeb1c2b45eb4)
 
 # Instalacion de librerias
 
