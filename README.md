@@ -62,3 +62,5 @@ pip install matplotlib
 - Cuando se completen todos los parametros, y no se han notificado errores, deben presionar aceptar y esperar unos segundis a que se realice el análisis del video
 
 - Para cerrar el video, deben presiona la tecla "Q", sin activar el Bloq. Mayus.
+
+- El archivo principal del programa lleva de nombre "proyectodeep.py"
