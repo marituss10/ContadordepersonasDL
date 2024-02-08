@@ -64,3 +64,9 @@ pip install matplotlib
 - Para cerrar el video, deben presiona la tecla "Q", sin activar el Bloq. Mayus.
 
 - El archivo principal del programa lleva de nombre "proyectodeep.py"
+
+# Funcionamiento
+
+![FUNCIONAMIENTO](https://github.com/marituss10/ContadordepersonasDL/assets/150117562/cbd691c5-2cfe-46a0-acc1-a92aa24d20e5)
+![FUNCIONAMIENTO2](https://github.com/marituss10/ContadordepersonasDL/assets/150117562/d3a2e474-920f-4081-a843-07f006a1e383)
+
